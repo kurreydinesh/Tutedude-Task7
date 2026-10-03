@@ -1,0 +1,106 @@
+Laundry Service Responsive Website
+
+Project Overview
+
+This project is a responsive **Laundry Service Website** created using **HTML and CSS**. The webpage provides a simple and attractive interface for a laundry service where users can view services, learn about the company, and book a service.
+
+The website is designed to work on different screen sizes such as desktop, tablet, and mobile devices.
+
+Technologies Used
+
+* HTML5
+* CSS3
+* CSS Media Queries
+* Responsive Web Design
+
+Features
+
+* Responsive navigation bar
+* Website logo
+* Home, Services, About Us, and Contact Us links
+* Username button
+* Attractive hero section
+* Laundry service heading and description
+* "Book a service today!" button
+* Laundry-related image
+* Mobile responsive layout
+* Flexible design using CSS
+
+Project Structure
+
+```text
+Laundry-Service/
+│
+├── index.html
+├── Style1.css
+├── image.png
+└── README.md
+```
+
+Main Files
+
+index.html
+
+Contains the complete structure of the webpage, including:
+
+* Header
+* Navigation bar
+* Hero section
+* Text content
+* Image
+* Booking button
+
+Style1.css
+
+Contains the styling and responsive design of the webpage, including:
+
+* Layout
+* Colors
+* Fonts
+* Spacing
+* Buttons
+* Image positioning
+* Mobile media queries
+
+image.png
+
+This is the laundry-related image displayed in the hero section.
+
+Responsive Design
+
+The website uses a CSS media query for smaller screens:
+
+```css
+@media (max-width: 770px)
+```
+
+This adjusts the navigation, text size, image size, and button layout for mobile and tablet devices.
+
+How to Run
+
+1. Download or clone the project.
+2. Keep `index.html`, `Style1.css`, and `image.png` in the same folder.
+3. Open the folder in VS Code.
+4. Open `index.html` using a browser or VS Code Live Server.
+5. The website will be displayed in the browser.
+
+Purpose
+
+The main purpose of this project is to demonstrate the implementation of a modern and responsive webpage using HTML and CSS. It also demonstrates how media queries can be used to make a website adaptable to different screen sizes.
+
+Future Improvements
+
+* Add JavaScript for interactive features.
+* Add a working booking form.
+* Add service cards and pricing.
+* Add animations and hover effects.
+* Add backend functionality for booking services.
+* Improve accessibility and SEO.
+
+Author
+
+**Dinesh Kumar**
+
+Project Type
+
+Responsive Web Design / Frontend Development
